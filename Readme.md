@@ -1,7 +1,7 @@
                                                 Getting started with the Github of the first repository.
 
 
-                                                ![Лого Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg)
+                                                ![Иллюстрация к проекту](https://github.com/jon/coolproject/raw/master/image/image.png)
                                                                
 
 
